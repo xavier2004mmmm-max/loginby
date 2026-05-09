@@ -29,6 +29,13 @@
       "banReason": "Test Key",
       "userRank": "Supreme User",
       "freezeAccount": false
+    },
+    "Paidx4user9@a": {
+      "hwid": "RESET",
+      "expireDate": "2026-07-31",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Paid User"
     }
   }
 }
