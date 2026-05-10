@@ -18,14 +18,6 @@
     "EXAMPLE_BANNED_HWID": "Attempted Smali Bypass"
   },
   "Keys": {
-    "Admin": {
-      "hwid": "B8763C974CAA6DE6",
-      "expireDate": "2026-06-03",
-      "isBanned": false,
-      "banReason": "Test Key",
-      "userRank": "Supreme User",
-      "freezeAccount": false
-    },
     "Paidx4user9@a": {
       "hwid": "RESET",
       "expireDate": "2026-07-31",
